@@ -1,0 +1,22 @@
+{
+  "wheel_id": 461,
+  "structure": "umbrella",
+  "slug": "propertymanagersunshinecoast-151",
+  "project": "property-managers-sunshine-coast-6e34779c700d7a3b67376f68052eb3",
+  "parent_t1_ref": "propertymanagersunshinecoast-011",
+  "node_role": "buffer",
+  "money_target": "propertymanagersunshinecoast.com.au",
+  "primary_kw": "property managers sunshine coast",
+  "intended_url": "https://aumedia.neocities.org/property-managers-sunshine-coast-6e34779c700d7a3b67376f68052eb3/",
+  "tier": "T2",
+  "writeback_nonce": "658edacd4aa283bb",
+  "links": [
+    {
+      "target_url": "https://property-managers-sunshine-coast-propertymanagersunshine-faedc0.gitlab.io/",
+      "anchor": "https://property-managers-sunshine-coast-propertymanagersunshine-faedc0.gitlab.io/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
